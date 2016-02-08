@@ -1,6 +1,6 @@
 {
   "name": "ya-dockerfile-parser",
-  "version": "1.0.0-aplha",
+  "version": "1.0.0-0",
   "description": "Parses a dockerfile into commands.",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
