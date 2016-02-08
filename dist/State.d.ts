@@ -1,0 +1,18 @@
+export declare enum State {
+    BeginningOfLine = 0,
+    NewLine = 1,
+    EndingOfLine = 2,
+    BeginningOfComment = 3,
+    SkipingFirstLetterOfComment = 4,
+    AppendingComment = 5,
+    EndingOfComment = 6,
+    BeginningOfInstruction = 7,
+    AppendingInstruction = 8,
+    EndingOfInstruction = 9,
+    BeginningOfArguments = 10,
+    AppendingArguments = 11,
+    EscapingOnArguments = 12,
+    EndingOfArguments = 13,
+    Error = 14,
+    EndOfFile = 15,
+}

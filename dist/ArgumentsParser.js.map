@@ -1,0 +1,1 @@
+{"version":3,"file":"ArgumentsParser.js","sourceRoot":"","sources":["../src/ArgumentsParser.ts"],"names":["NullArgumentsParser","NullArgumentsParser.constructor","NullArgumentsParser.parse"],"mappings":"AAIA;IAAAA;IAIAC,CAACA;IAHGD,mCAAKA,GAALA,UAAMA,IAAYA;QACdE,MAAMA,CAACA,SAASA,CAACA;IACrBA,CAACA;IACLF,0BAACA;AAADA,CAACA,AAJD,IAIC;AAJY,2BAAmB,sBAI/B,CAAA"}

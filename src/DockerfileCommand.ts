@@ -1,0 +1,19 @@
+export class DockerfileCommand {
+    static FROM = "FROM";
+    static MAINTAINER = "MAINTAINER";
+    static RUN = "RUN";
+    static CMD = "CMD";
+    static LABEL = "LABEL";
+    static EXPOSE = "EXPOSE";
+    static ENV = "ENV";
+    static ADD = "ADD";
+    static COPY = "COPY";
+    static ENTRYPOINT = "ENTRYPOINT";
+    static VOLUME = "VOLUME";
+    static USER = "USER";
+    static WORKDIR = "WORKDIR";
+    static ARG = "ARG";
+    static ONBUILD = "ONBUILD";
+    static STOPSIGNAL = "STOPSIGNAL";
+    static COMMENT = "COMMENT";
+}
